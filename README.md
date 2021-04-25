@@ -1,2 +1,5 @@
 # Customized-RadioButtons
-Customized radio buttons 
+> customized radio buttons cards 
+* Tools used
+  * CSS3
+    * Flex Box
